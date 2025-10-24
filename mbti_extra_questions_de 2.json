@@ -1,0 +1,254 @@
+[
+  {
+    "question": "Wie reagierst du auf unerwartete Änderungen im Zeitplan?",
+    "options": [
+      {
+        "text": "Ich finde sie spannend und erfrischend",
+        "trait": "P"
+      },
+      {
+        "text": "Ich finde sie störend und plane lieber im Voraus",
+        "trait": "J"
+      },
+      {
+        "text": "Ich bespreche sie mit anderen",
+        "trait": "E"
+      },
+      {
+        "text": "Ich ziehe mich zurück, um nachzudenken",
+        "trait": "I"
+      }
+    ]
+  },
+  {
+    "question": "Was motiviert dich am meisten beim Lernen?",
+    "options": [
+      {
+        "text": "Die Möglichkeit, Neues auszuprobieren",
+        "trait": "N"
+      },
+      {
+        "text": "Ein klar definiertes Ziel",
+        "trait": "J"
+      },
+      {
+        "text": "Das Teilen mit anderen",
+        "trait": "E"
+      },
+      {
+        "text": "Ruhe und Selbstreflexion",
+        "trait": "I"
+      }
+    ]
+  },
+  {
+    "question": "Welche Art von Informationen bevorzugst du?",
+    "options": [
+      {
+        "text": "Konkrete Daten und Beispiele",
+        "trait": "S"
+      },
+      {
+        "text": "Abstrakte Theorien und Konzepte",
+        "trait": "N"
+      },
+      {
+        "text": "Was logisch erklärbar ist",
+        "trait": "T"
+      },
+      {
+        "text": "Was emotional anspricht",
+        "trait": "F"
+      }
+    ]
+  },
+  {
+    "question": "Was tust du bei einem Konflikt in der Lerngruppe?",
+    "options": [
+      {
+        "text": "Ich versuche, alle zu verstehen",
+        "trait": "F"
+      },
+      {
+        "text": "Ich analysiere die Ursache objektiv",
+        "trait": "T"
+      },
+      {
+        "text": "Ich spreche direkt mit allen Beteiligten",
+        "trait": "E"
+      },
+      {
+        "text": "Ich überlege erst für mich allein",
+        "trait": "I"
+      }
+    ]
+  },
+  {
+    "question": "Wie gehst du mit einer neuen komplexen Aufgabe um?",
+    "options": [
+      {
+        "text": "Ich strukturiere sie in kleine Schritte",
+        "trait": "J"
+      },
+      {
+        "text": "Ich experimentiere frei darauf los",
+        "trait": "P"
+      },
+      {
+        "text": "Ich bespreche Ideen mit anderen",
+        "trait": "E"
+      },
+      {
+        "text": "Ich recherchiere selbstständig",
+        "trait": "I"
+      }
+    ]
+  },
+  {
+    "question": "Was ist dir beim Lernen wichtiger?",
+    "options": [
+      {
+        "text": "Logische Argumentation",
+        "trait": "T"
+      },
+      {
+        "text": "Zwischenmenschliche Harmonie",
+        "trait": "F"
+      },
+      {
+        "text": "Praktische Anwendbarkeit",
+        "trait": "S"
+      },
+      {
+        "text": "Zukunftsvision und Ideen",
+        "trait": "N"
+      }
+    ]
+  },
+  {
+    "question": "Wie planst du deine Lernzeit?",
+    "options": [
+      {
+        "text": "Ich entscheide spontan je nach Gefühl",
+        "trait": "P"
+      },
+      {
+        "text": "Ich folge einem klaren Zeitplan",
+        "trait": "J"
+      },
+      {
+        "text": "Ich lerne, wenn ich Energie habe",
+        "trait": "E"
+      },
+      {
+        "text": "Ich plane Pausen zum Nachdenken ein",
+        "trait": "I"
+      }
+    ]
+  },
+  {
+    "question": "Wie reagierst du auf Feedback?",
+    "options": [
+      {
+        "text": "Ich analysiere es sachlich",
+        "trait": "T"
+      },
+      {
+        "text": "Ich nehme es emotional wahr",
+        "trait": "F"
+      },
+      {
+        "text": "Ich diskutiere es offen",
+        "trait": "E"
+      },
+      {
+        "text": "Ich reflektiere es für mich",
+        "trait": "I"
+      }
+    ]
+  },
+  {
+    "question": "Wie arbeitest du am liebsten?",
+    "options": [
+      {
+        "text": "In strukturierten Phasen mit klaren Zielen",
+        "trait": "J"
+      },
+      {
+        "text": "Flexibel und offen für Veränderungen",
+        "trait": "P"
+      },
+      {
+        "text": "Im kreativen Chaos",
+        "trait": "N"
+      },
+      {
+        "text": "Mit konkreten Vorgaben",
+        "trait": "S"
+      }
+    ]
+  },
+  {
+    "question": "Worauf achtest du beim Lesen eines Textes?",
+    "options": [
+      {
+        "text": "Die Kernaussage und Zusammenhänge",
+        "trait": "N"
+      },
+      {
+        "text": "Jedes Detail und jede Zahl",
+        "trait": "S"
+      },
+      {
+        "text": "Die Argumentationslogik",
+        "trait": "T"
+      },
+      {
+        "text": "Die emotionale Wirkung",
+        "trait": "F"
+      }
+    ]
+  },
+  {
+    "question": "Wie organisierst du deine Materialien?",
+    "options": [
+      {
+        "text": "Ich sortiere sie logisch und ordentlich",
+        "trait": "J"
+      },
+      {
+        "text": "Ich halte sie griffbereit, auch wenn chaotisch",
+        "trait": "P"
+      },
+      {
+        "text": "Ich bespreche sie gerne mit anderen",
+        "trait": "E"
+      },
+      {
+        "text": "Ich bearbeite sie lieber alleine",
+        "trait": "I"
+      }
+    ]
+  },
+  {
+    "question": "Welche Lernform passt am besten zu dir?",
+    "options": [
+      {
+        "text": "Diskussionen mit anderen",
+        "trait": "E"
+      },
+      {
+        "text": "Selbstständiges Nachdenken",
+        "trait": "I"
+      },
+      {
+        "text": "Fallbeispiele und Anwendungen",
+        "trait": "S"
+      },
+      {
+        "text": "Zukunftsorientierte Fragestellungen",
+        "trait": "N"
+      }
+    ]
+  }
+]
